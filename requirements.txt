@@ -1,0 +1,16 @@
+python-dotenv
+pylint
+pytest
+black
+ipython
+click
+ipdb
+pytest-cov
+pydantic
+geopy
+fastapi
+uvicorn[standard]
+wikipedia
+git+https://github.com/LIAAD/yake
+langserve[all]
+langchain-openai
